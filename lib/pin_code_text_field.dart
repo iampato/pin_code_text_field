@@ -469,7 +469,7 @@ class PinCodeTextFieldState extends State<PinCodeTextField>
     });
     return Row(
       // direction: Axis.horizontal,
-      alignment: widget.wrapAlignment,
+      // alignment: widget.wrapAlignment,
       mainAxisAlignment: widget.crossAxisAlignment,
       crossAxisAlignment: widget.crossAxisAlignment,
       // verticalDirection: VerticalDirection.down,
