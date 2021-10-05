@@ -470,7 +470,7 @@ class PinCodeTextFieldState extends State<PinCodeTextField>
     return Row(
       // direction: Axis.horizontal,
       // alignment: widget.wrapAlignment,
-      mainAxisAlignment: widget.crossAxisAlignment,
+      mainAxisAlignment: widget.mainAxisAlignment,
       crossAxisAlignment: widget.crossAxisAlignment,
       // verticalDirection: VerticalDirection.down,
       textDirection: widget.textDirection,
